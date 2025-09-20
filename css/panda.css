@@ -1,5 +1,20 @@
+<<<<<<< HEAD
 body {
   font-family: Courier New;
   background-color: green;
   text-align: center;
 }
+=======
+body {
+  font-family: Courier New;
+  background-color: green;
+  text-align: center;
+}
+
+img {
+  width: 400px;       /* change to desired width */
+  height: auto;       /* maintain aspect ratio */
+  display: block;     /* optional: avoids inline spacing issues */
+  margin: 0 auto;     /* optional: centers the image */
+}
+>>>>>>> 6fb229b (WIP: save current changes before switching to main)

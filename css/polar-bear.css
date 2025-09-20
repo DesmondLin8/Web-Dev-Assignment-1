@@ -3,3 +3,10 @@ body {
   background-color: silver;
   text-align: center;
 }
+
+img {
+  width: 400px;       /* change to desired width */
+  height: auto;       /* maintain aspect ratio */
+  display: block;     /* optional: avoids inline spacing issues */
+  margin: 0 auto;     /* optional: centers the image */
+}
